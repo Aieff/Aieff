@@ -1,4 +1,5 @@
-## Olá me chamo Gabriel Oliveira, seja bem vindo ao meu perfil
+## Olá me chamo Gabriel Oliveira 
+## Seja bem vindo ao meu perfil!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
