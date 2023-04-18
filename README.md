@@ -1,7 +1,7 @@
 ## Olá me chamo Gabriel Oliveira <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 <h4>Seja bem vindo ao meu perfil!<h4>
 
- <img src="https://img.shields.io/badge/-html5-%FF7F00?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+ <img src="https://img.shields.io/badge/-html5-%FFA500?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/-css3-%230077B5?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
    <img src="https://img.shields.io/badge/-javascript-%23E4405F?style=for-the-badge&logo=javascript&logoColor=white" target="_blank"></a>
     <img src="https://img.shields.io/badge/-html5-%23E4405F?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
