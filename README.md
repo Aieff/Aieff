@@ -1,4 +1,4 @@
-## Olá me chamo Gabriel Oliveira 
+## Olá me chamo Gabriel Oliveira <img src="https://github.com/Aieff/Aieff/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 ## Seja bem vindo ao meu perfil!
 
 <h4>Linguagens de hypertext e programação<h4>
