@@ -20,3 +20,20 @@
   <a href="https://www.linkedin.com/in/gabriel-oliveira-106906219" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+   <a href="https://github.com/Aieff">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aieff&theme=dark&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Aieff">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aieff&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+</a>
+
+
+<a href="https://github.com/Aieff/aieff">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aieff&repo=aieff&theme=dark" />
+</a>
+
+<a href="https://github.com/Aieff/Fun-with-DS-and-Algo">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aieff&repo=Fun-with-DS-and-Algo&theme=dark" />
+</a>
