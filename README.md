@@ -31,9 +31,6 @@
 
 
 <a href="https://github.com/Aieff/aieff">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aieff&repo=aieff&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aieff&repo=Alpha_v2&theme=dark" />
 </a>
 
-<a href="https://github.com/Aieff/Fun-with-DS-and-Algo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aieff&repo=Fun-with-DS-and-Algo&theme=dark" />
-</a>
