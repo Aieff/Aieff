@@ -6,7 +6,6 @@
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original-wordmark.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original-wordmark.svg"></code>
-    ##
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"></code>
