@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá me chamo Gabriel Oliveira <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h1>atualmente atuo como desenvolvedor FullStack da CVS Sistemas no qual possuímos o nosso foco voltado para a Plataforma Mentorar
+Olá me chamo Gabriel Oliveira <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h1> atualmente atuo como desenvolvedor FullStack da CVS Sistemas no qual possuímos o nosso foco voltado para a Plataforma Mentorar
 
 
 ## 🌐 Socials:
