@@ -30,9 +30,11 @@ Atualmente faço Análise e Desenvolvimento de Sistemas - FEPI 4|5
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://mllmglksk2nt.i.optimole.com/w:auto/h:auto/q:mauto/https://cvssistemas.com.br/wp-content/uploads/2019/09/logo_cvs.png"/>](https://cvssistemas.com.br/)
+
 **Full-Stack Developer (Estágio)** \
 [**CVS**](https://cvssistemas.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `PHP`, `MySQL`\
+Linguagens & Tecnologias: `JavaScript`, `PHP`, `MySQL`,`HTML5`,`CSS3`,`Jquery`,`Bootstrap`\
 <br/>
 
 
