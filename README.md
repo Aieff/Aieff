@@ -25,3 +25,14 @@ Atualmente faço Análise e Desenvolvimento de Sistemas - FEPI 4|5
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gabrielnas._/"/></a>
 </p>  
 
+<hr>
+
+### Experiência de trabalho
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+**Full-Stack Developer (Estágio)** \
+[**CVS**](https://cvssistemas.com.br/) • Contract \
+Linguagens & Tecnologias: `JavaScript`, `PHP`, `MySQL`\
+<br/>
+
+
