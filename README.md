@@ -30,7 +30,7 @@ Atualmente faço Análise e Desenvolvimento de Sistemas - FEPI 4|5
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://www.mentorar.com.br/wp-content/uploads/2016/07/logo_cliente2.png"/>](https://cvssistemas.com.br/)
+[<img align="left" height="80px" width="94px" alt="Rocketseat" src="https://www.mentorar.com.br/wp-content/uploads/2016/07/logo_cliente2.png"/>](https://cvssistemas.com.br/)
 
 **Full-Stack Developer (Estágio)** \
 [**CVS**](https://cvssistemas.com.br/) • Contract \
