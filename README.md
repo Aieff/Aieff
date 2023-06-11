@@ -49,7 +49,7 @@ Na visão geral abaixo você encontrará minhas certificações:
 Linguagens & Tecnologias: `React`, `JavaScript`, `TypeScript`,`Node.js`, `Sql`\
 <br/>
 
-[<img align="left" height="75px" width="94px" alt="udemy" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Logo-700x394.png"/>](https://www.udemy.com/)
+[<img align="left" height="75px" width="94px" alt="udemy" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Emblem.png"/>](https://www.udemy.com/)
 
 **Udemy (CRUD)** \
 [**Udemy**](https://www.udemy.com/) • Contract \
