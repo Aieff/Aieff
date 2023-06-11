@@ -42,14 +42,14 @@ Linguagens & Tecnologias: `JavaScript`, `PHP`, `MySQL`,`HTML5`,`CSS3`,`Jquery`,`
 ### Certificações
 Na visão geral abaixo você encontrará minhas certificações:
 
-[<img align="left" height="75px" width="94px" alt="devSamurai" src="https://class.devsamurai.com.br/assets/logo-ef6ee22864637a2fe661fd192e85c66c9dba6229e0dc6bf238882155fad5c168.svg"/>](https://class.devsamurai.com.br/)
+[<img align="left" height="85px" width="125px" alt="devSamurai" src="https://class.devsamurai.com.br/assets/logo-ef6ee22864637a2fe661fd192e85c66c9dba6229e0dc6bf238882155fad5c168.svg"/>](https://class.devsamurai.com.br/)
 
 **Dev Samurai (Full-Stack)** \
 [**Dev Samurai**](https://class.devsamurai.com.br/) • Contract \
 Linguagens & Tecnologias: `React`, `JavaScript`, `TypeScript`,`Node.js`, `Sql`\
 <br/>
 
-[<img align="left" height="80px" width="80px" alt="udemy" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Emblem.png"/>](https://www.udemy.com/)
+[<img align="left" height="85px" width="125px" alt="udemy" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Emblem.png"/>](https://www.udemy.com/)
 
 **Udemy (CRUD)** \
 [**Udemy**](https://www.udemy.com/) • Contract \
