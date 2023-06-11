@@ -49,7 +49,7 @@ Na visão geral abaixo você encontrará minhas certificações:
 Linguagens & Tecnologias: `React`, `JavaScript`, `TypeScript`,`Node.js`, `Sql`\
 <br/>
 
-[<img align="left" height="75px" width="94px" alt="devSamurai" src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg"/>](https://www.udemy.com/)
+[<img align="left" height="75px" width="94px" alt="udemy" src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg"/>](https://www.udemy.com/)
 
 **Udemy (CRUD)** \
 [**Udemy**](https://www.udemy.com/) • Contract \
