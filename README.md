@@ -45,8 +45,15 @@ Na visão geral abaixo você encontrará minhas certificações:
 [<img align="left" height="75px" width="94px" alt="devSamurai" src="https://class.devsamurai.com.br/assets/logo-ef6ee22864637a2fe661fd192e85c66c9dba6229e0dc6bf238882155fad5c168.svg"/>](https://class.devsamurai.com.br/)
 
 **Dev Samurai (Full-Stack)** \
-[**Dev Sanurai**](https://class.devsamurai.com.br/) • Contract \
+[**Dev Samurai**](https://class.devsamurai.com.br/) • Contract \
 Linguagens & Tecnologias: `React`, `JavaScript`, `TypeScript`,`Node.js`, `Sql`\
+<br/>
+
+[<img align="left" height="75px" width="94px" alt="devSamurai" src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg"/>](https://www.udemy.com/)
+
+**Udemy (CRUD)** \
+[**Udemy**](https://www.udemy.com/) • Contract \
+Linguagens & Tecnologias: `HTML5`, `CSS3`, `PHP`,`MySQL`, `Jquery`, `Bootstrap`\
 <br/>
 
 
