@@ -30,11 +30,24 @@ Atualmente faço Análise e Desenvolvimento de Sistemas - FEPI 4|5
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="75px" width="94px" alt="Rocketseat" src="https://www.mentorar.com.br/wp-content/uploads/2016/07/logo_cliente2.png"/>](https://cvssistemas.com.br/)
+[<img align="left" height="75px" width="94px" alt="cvs" src="https://www.mentorar.com.br/wp-content/uploads/2016/07/logo_cliente2.png"/>](https://cvssistemas.com.br/)
 
 **Full-Stack Developer (Estágio)** \
 [**CVS**](https://cvssistemas.com.br/) • Contract \
 Linguagens & Tecnologias: `JavaScript`, `PHP`, `MySQL`,`HTML5`,`CSS3`,`Jquery`,`Bootstrap`\
 <br/>
+
+<hr>
+
+### Certificações
+Na visão geral abaixo você encontrará minhas certificações:
+
+[<img align="left" height="75px" width="94px" alt="devSamurai" src="https://class.devsamurai.com.br/assets/logo-ef6ee22864637a2fe661fd192e85c66c9dba6229e0dc6bf238882155fad5c168.svg"/>](https://class.devsamurai.com.br/)
+
+**Dev Samurai (Full-Stack)** \
+[**Dev Sanurai**](https://class.devsamurai.com.br/) • Contract \
+Linguagens & Tecnologias: `React`, `JavaScript`, `TypeScript`,`Node.js`, `Sql`\
+<br/>
+
 
 
