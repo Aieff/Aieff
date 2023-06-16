@@ -2,7 +2,7 @@
 
 <p align="left"> 
 Olá bem-vindo(a) ao meu Github, me chamo Gabriel Oliveira sou Developer Full-Stack da CVS Sistemas Ltda.
-Atualmente faço Análise e Desenvolvimento de Sistemas - FEPI 4|5
+Atualmente faço Análise e Desenvolvimento de Sistemas - FEPI 5|5
 </p>
 
 <p align="left">
