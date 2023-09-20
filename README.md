@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
+  
   - (PT-BR)
 Olá bem-vindo(a) ao meu Github, me chamo Gabriel Oliveira sou Developer Full-Stack da CVS Sistemas Ltda.
 Atualmente faço Análise e Desenvolvimento de Sistemas - FEPI 5|5
