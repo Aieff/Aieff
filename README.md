@@ -20,8 +20,8 @@ I currently do Systems Analysis and Development - FEPI 5|5
 </p>
 
 <p align="left">
-  (PT-BR) Para falar comigo entre em contato pelo meu instagram.
-  (ENG) To speak to me, contact me on my Instagram.
+  - (PT-BR) Para falar comigo entre em contato pelo meu instagram.
+  - (ENG) To speak to me, contact me on my Instagram.
 </p>
 
 <p align="left">
