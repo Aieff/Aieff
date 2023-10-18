@@ -57,10 +57,10 @@ Linguagens & Tecnologias: `JavaScript`, `PHP`, `MySQL`,`HTML5`,`CSS3`,`Jquery`,`
 Languages ​​& Technologies: `React`, `JavaScript`, `TypeScript`,`Node.js`, `Sql`\
 <br/>
 
-[<img align="left" height="70px" width="125px" alt="udemy" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Emblem.png"/>](https://www.udemy.com/)
+[<img align="left" height="70px" width="125px" alt="udemy" src="https://horadecodar.com.br/wp-content/uploads/2022/11/cropped-logo.webp"/>](https://horadecodar.com.br/)
 
-**Udemy** \
-[**Udemy**](https://www.udemy.com/) • 
+**Hora de Codar** \
+[**Hora de Codar**](https://horadecodar.com.br/) • 
 Languages ​​& Technologies: `HTML5`, `CSS3`, `PHP`,`MySQL`, `Jquery`, `Bootstrap`,`Typescript`\
 <br/>
 
