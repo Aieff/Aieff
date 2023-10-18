@@ -64,7 +64,7 @@ Languages ​​& Technologies: `React`, `JavaScript`, `TypeScript`,`Node.js`, `
 Languages ​​& Technologies: `HTML5`, `CSS3`, `PHP`,`MySQL`, `Jquery`, `Bootstrap`,`Typescript`\
 <br/>
 
-[<img align="left" height="100px" width="100px" alt="rocketseat" src="https://yt3.googleusercontent.com/ytc/APkrFKZrGqrhoi-8bgGjHGvB9LPlACOM7v_LS1SwaoIQyA=s900-c-k-c0x00ffffff-no-rj"/>](https://www.rocketseat.com.br/)
+[<img align="left" height="80px" width="80px" alt="rocketseat" src="https://yt3.googleusercontent.com/ytc/APkrFKZrGqrhoi-8bgGjHGvB9LPlACOM7v_LS1SwaoIQyA=s900-c-k-c0x00ffffff-no-rj"/>](https://www.rocketseat.com.br/)
 
 **Rocketseat** \
 [**Rocketseat**](https://www.rocketseat.com.br/) • 
