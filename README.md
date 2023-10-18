@@ -42,7 +42,7 @@ Recent work experience:
 [<img align="left" height="75px" width="100px" alt="cvs" src="https://www.mentorar.com.br/wp-content/uploads/2016/07/logo_cliente2.png"/>](https://cvssistemas.com.br/)
 
 **Full-Stack Developer (Estágio)** \
-[**CVS**](https://cvssistemas.com.br/) • Contract \
+[**CVS**](https://cvssistemas.com.br/) • Start: Mar 2022 \
 Linguagens & Tecnologias: `JavaScript`, `PHP`, `MySQL`,`HTML5`,`CSS3`,`Jquery`,`Bootstrap`\
 <br/>
 
