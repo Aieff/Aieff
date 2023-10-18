@@ -64,6 +64,13 @@ Languages ​​& Technologies: `React`, `JavaScript`, `TypeScript`,`Node.js`, `
 Languages ​​& Technologies: `HTML5`, `CSS3`, `PHP`,`MySQL`, `Jquery`, `Bootstrap`,`Typescript`\
 <br/>
 
+[<img align="left" height="70px" width="125px" alt="rocketseat" src="[https://logos-world.net/wp-content/uploads/2021/11/Udemy-Emblem.png](https://yt3.googleusercontent.com/ytc/AOPolaSghYasg6N8adLYx2BNMe7eVzBYrcnM5YguoLxxNg=s900-c-k-c0x00ffffff-no-rj)"/>](https://www.rocketseat.com.br/)
+
+**Rocketseat** \
+[**Rocketseat**](https://www.rocketseat.com.br/) • 
+Languages ​​& Technologies: `Java`, `SpringBoot`, `APIRest`,`APIDog`, `Insomnia`\
+<br/>
+
 <hr>
 
 ### 💻 Technologies:
@@ -122,6 +129,7 @@ Languages ​​& Technologies: `HTML5`, `CSS3`, `PHP`,`MySQL`, `Jquery`, `Boots
 
 ###
 
+<hr>
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aieff&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
