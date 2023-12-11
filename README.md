@@ -107,7 +107,7 @@ Linguagens & Tecnologias: `JavaScript`, `PHP`, `MySQL`,`HTML5`,`CSS3`,`Jquery`,`
 
 ### Certifications
 
-[<img align="left" height="85px" width="125px" alt="devSamurai" src="https://class.devsamurai.com.br/assets/logo-ef6ee22864637a2fe661fd192e85c66c9dba6229e0dc6bf238882155fad5c168.svg"/>](https://class.devsamurai.com.br/)
+[<img align="left" height="70px" width="125px" alt="devSamurai" src="https://class.devsamurai.com.br/assets/logo-ef6ee22864637a2fe661fd192e85c66c9dba6229e0dc6bf238882155fad5c168.svg"/>](https://class.devsamurai.com.br/)
 
 **Dev Samurai (Full-Stack)** \
 [**Dev Samurai**](https://class.devsamurai.com.br/) •
@@ -115,7 +115,7 @@ Languages ​​& Technologies: `React`, `JavaScript`, `TypeScript`,`Node.js`, `
 
 <hr>
 
-[<img align="left" height="64px" width="290px" alt="horadecodar" src="https://horadecodar.com.br/wp-content/uploads/2022/11/cropped-logo.webp"/>](https://horadecodar.com.br/)
+[<img align="left" height="70px" width="290px" alt="horadecodar" src="https://horadecodar.com.br/wp-content/uploads/2022/11/cropped-logo.webp"/>](https://horadecodar.com.br/)
 
 **Hora de Codar** \
 [**Hora de Codar**](https://horadecodar.com.br/) • 
@@ -123,7 +123,7 @@ Languages ​​& Technologies: `HTML5`, `CSS3`, `PHP`,`MySQL`, `Jquery`, `Boots
 
 <hr>
 
-[<img align="left" height="80px" width="80px" alt="rocketseat" src="https://yt3.googleusercontent.com/ytc/APkrFKZrGqrhoi-8bgGjHGvB9LPlACOM7v_LS1SwaoIQyA=s900-c-k-c0x00ffffff-no-rj"/>](https://www.rocketseat.com.br/)
+[<img align="left" height="70px" width="70px" alt="rocketseat" src="https://yt3.googleusercontent.com/ytc/APkrFKZrGqrhoi-8bgGjHGvB9LPlACOM7v_LS1SwaoIQyA=s900-c-k-c0x00ffffff-no-rj"/>](https://www.rocketseat.com.br/)
 
 **Rocketseat** \
 [**Rocketseat**](https://www.rocketseat.com.br/) • 
@@ -131,7 +131,7 @@ Languages ​​& Technologies: `Java`, `SpringBoot`, `APIRest`,`APIDog`, `Insom
 
 <hr>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQFDFQgUB2estA/company-logo_200_200/0/1698180792396/centro_universitrio_de_itajub_logo?e=1709164800&v=beta&t=xfoe9scGT27BBlX54_v9vflE4qv2G5szeFpLbBxh2WI"/>]
+[<img align="left" height="70px" width="70px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQFDFQgUB2estA/company-logo_200_200/0/1698180792396/centro_universitrio_de_itajub_logo?e=1709164800&v=beta&t=xfoe9scGT27BBlX54_v9vflE4qv2G5szeFpLbBxh2WI"/>]
 
 **Analysis and systems development** \
 [**FEPI – Centro Universitário de Itajubá**](https://fepi.br/) \
