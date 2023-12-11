@@ -1,17 +1,15 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-## Hello, Devs!! 👋
-### Olá me chamo Alexandre Fernandes atualmente atuo como desenvolvedor BackEnd, Seja bem-vindo ao meu perfil GitHub.<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+## Hello, Dev!! 👋
+### Olá me chamo Gabriel Oliveira atualmente atuo como desenvolvedor Full-Stack Júnior, Seja bem-vindo ao meu perfil GitHub.<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 🔰  Sou de Itajubá-MG, Brasil
-- ⚡ Apaixonado por Música e Tecnologia
-- 🧠 Estudante de Desenvolvimento de Software na RocktSeat
-- 🧠 Análise e Desenvolvimento de Sistemas
-- 🏦 Gerenciamento e desenvolvimento do workflow processos licitatórios. Essa aplicação abrange etapas cruciais, incluindo a identificação da necessidade, o planejamento, o recebimento de propostas e a avaliação.
+- 💻 Análise e Desenvolvimento de Sistemas
+- "O conhecimento é a única coisa na qual ninguém pode nos roubar".
 
 ##
 
-#### Estou em constância aprendizados nas seguinte tecnologias:
+#### Tecnologias:
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>]()
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=nest"/>]()
 [<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>]()
@@ -30,10 +28,9 @@
 #### Ferramentas que uso:
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="Icone Insomnia" src="https://i.postimg.cc/MHch4m7T/insomnia.png"/>](https://insomnia.rest)
-[<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
-[<img height="48px" width="48px" alt="Icone Beekeeper" src="https://i.postimg.cc/j5sT81d4/beekeeperstudio.png"/>](https://www.beekeeperstudio.io)
 [<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
+[<img height="48px" width="48px" alt="Icone Git" src="[https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/512px-PhpStorm_Icon.svg.png?20200803075927)"/>](https://git-scm.com)
 
 ##
 
@@ -45,9 +42,8 @@
 #### Experiência Profissional:
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQECdyrnz6rSHA/company-logo_200_200/0/1630527482366/prefeituradeitajuba_logo?e=1709164800&v=beta&t=0vBJNnnzbivZ_-SrtPpHTPzrYcZDdaLnWXn9xrtWng0"/>
-Competências: JavaScript · Prisma · PostgreSQL · Docker · Git · Rest Api · Express.js ·Node.js 
-<br/> Gerenciamento e desenvolvimento do workflow processos licitatórios. Essa aplicação abrange etapas cruciais, incluindo a identificação da necessidade, o planejamento, o recebimento de propostas e a avaliação. Por meio de uma interface amigável e intuitiva, nossa solução simplifica e agiliza todo o processo, proporcionando uma experiência mais eficaz e transparente para os usuários envolvidos nesse importante procedimento de aquisição de bens e serviços.
+<img align="left" height="94px" width="94px" alt="cvs" src="https://mllmglksk2nt.i.optimole.com/w:auto/h:auto/q:mauto/https://cvssistemas.com.br/wp-content/uploads/2019/09/logo_cvs.png"/>
+Competências: PHP · Javascript · MySQL · Git · GitHub · Bootstrap · Jquery · Composer · Wampserver
 
 ##
 
