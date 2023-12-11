@@ -36,7 +36,7 @@ I currently do Systems Analysis and Development - FEPI 5|5
 
 <hr>
 
-### 💻 Technologies:
+### 💻 Technologies and tools:
 
 <div>
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
