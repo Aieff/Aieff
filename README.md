@@ -129,7 +129,7 @@ Languages ​​& Technologies: `Java`, `SpringBoot`, `APIRest`,`APIDog`, `Insom
 <br>
 <hr>
 
-<img align="left" height="70px" width="70px" alt="Warpnet" src="https://fepi.br/wp-content/uploads/2021/09/Logo-FEPI.png"/>
+<img align="left" height="70px" width="70px" alt="Warpnet" src="https://www.blocodourso.com.br/assets/images/patrocinio/6-FEPI.png"/>
 
 **Analysis and systems development** \
 [**FEPI – Centro Universitário de Itajubá**](https://fepi.br/) • 
