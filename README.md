@@ -51,7 +51,9 @@ Hello, welcome to my Github, my name is Gabriel Oliveira, I'm a Full-Stack Devel
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
+  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />]
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=notion" height="30" alt="notion logo"  />
 </div>
 
 ###
@@ -86,6 +88,10 @@ Hello, welcome to my Github, my name is Gabriel Oliveira, I'm a Full-Stack Devel
   <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=composer" height="30" alt="composer logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
 </div>
 
 
