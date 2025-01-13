@@ -63,7 +63,7 @@ Hello, welcome to my Github, my name is Gabriel Oliveira, I'm a Full-Stack Devel
 <div>
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=node" height="30" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="12" />
