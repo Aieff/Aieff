@@ -54,13 +54,15 @@ Hello, welcome to my Github, my name is Gabriel Oliveira, I'm a Full-Stack Devel
   <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=notion" height="30" alt="notion logo"  />
-    <img width="12" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
 </div>
 
 ###
 
 <div>
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="php logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
